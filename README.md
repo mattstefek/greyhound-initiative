@@ -1,2 +1,2 @@
-# greyhound-initiative
-Greyhound Initiative ruleset for homebrew tabletop
+# Maelstrom Initiative
+Maelstrom Initiative ruleset for a homebrew tabletop.
